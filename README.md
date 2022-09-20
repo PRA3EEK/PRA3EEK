@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateek Chauhan</h1>
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
+
 <h3 align="center">Aspiring and enthusiastic Java Developer with more than 1500+ hours of coding and 1200+ hours of DSA hands on practice. Like to solve Data Structure and Algorithims problems. Looking to work with an organisation where I can enhance my skills as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pra3eek&label=Profile%20views&color=0e75b6&style=flat" alt="pra3eek" /> </p>
