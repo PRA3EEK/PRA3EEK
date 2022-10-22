@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pra3eek&show_icons=true&locale=en" alt="pra3eek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pra3eek&" alt="pra3eek" /></p>
+
+<a href="https://github.com/PRA3EEK/github-readme-activity-graph"><img alt="Prateek chauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PRA3EEK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
