@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pra3eek&" alt="pra3eek" /></p>
 
-<a href="https://github.com/PRA3EEK/github-readme-activity-graph"><img alt="Prateek chauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PRA3EEK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pra3eek&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
