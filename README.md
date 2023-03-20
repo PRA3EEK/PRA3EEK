@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prateekchauhan0004@gmail.com**
 
-- 📄 Know about my experiences [http://127.0.0.1:5501/prateek%20chauhan%20resume.pdf](http://127.0.0.1:5501/prateek%20chauhan%20resume.pdf)
+- 📄 Know about my experiences [http://127.0.0.1:5501/prateek%20chauhan%20resume.pdf](https://drive.google.com/file/d/1gYfzYS4mWK-hAWkzaXSDH0IXSGvFdr4D/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
